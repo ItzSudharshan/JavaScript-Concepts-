@@ -3,7 +3,9 @@
 learn
 completed
 Understanding Promises
-A Promise is a special type of object in JavaScript that represents the eventual completion (or failure) of an asynchronous operation and its resulting value. Promises allow you to handle asynchronous operations in a more structured way, avoiding the complexities and callback hell of traditional JavaScript.
+A Promise is a special type of object in JavaScript that represents the eventual completion (or failure) of an 
+asynchronous operation and its resulting value. Promises allow you to handle asynchronous operations in a more structured way, 
+avoiding the complexities and callback hell of traditional JavaScript.
 
 Key Concepts of Promises:
 States of a Promise:
@@ -49,7 +51,8 @@ Error Handling: Promises provide a better way to handle errors via .catch().
 
 Chaining: Promises allow chaining, so you can write multiple asynchronous operations in sequence.
 
-This mechanism is essential for working with asynchronous tasks like fetching data from APIs or waiting for user inputs in web applications.
+This mechanism is essential for working with asynchronous tasks like fetching data from
+APIs or waiting for user inputs in web applications.
 
 
 */

@@ -15,7 +15,9 @@ counter(); // 3
 /*
 Interviewer: What is a closure in JavaScript?
 
-Ideal Answer: A closure in JavaScript is a feature where an inner function has access to the outer (enclosing) function’s variables. This happens even after the outer function has finished executing. Closures are created when a function is defined inside another function, allowing the inner function to remember and access the variables from its parent function’s scope.
+Ideal Answer: A closure in JavaScript is a feature where an inner function has access to the outer (enclosing) function’s variables. 
+This happens even after the outer function has finished executing. Closures are created when a function is defined inside another function, 
+allowing the inner function to remember and access the variables from its parent function’s scope.
 
 
 Why Are Closures Important? 🔑

@@ -1,5 +1,7 @@
 /* 🌟 What is async?
-The async keyword is used to define an asynchronous function. These functions return a promise by default. You can perform asynchronous operations inside an async function.
+The async keyword is used to define an asynchronous function.
+These functions return a promise by default.
+You can perform asynchronous operations inside an async function.
 
 Key Points:
 

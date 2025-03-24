@@ -1,7 +1,9 @@
 /*  
 Interviewer: What is synchronous programming in JavaScript?
 
-Ideal Answer: Synchronous programming means tasks are executed one at a time, in the order they are written. Each task must finish before the next one starts. It's like standing in line at a bank; you must wait for the person in front of you to finish before it’s your turn.
+Ideal Answer: Synchronous programming means tasks are executed one at a time,
+in the order they are written. Each task must finish before the next one starts. 
+It's like standing in line at a bank; you must wait for the person in front of you to finish before it’s your turn.
 
 
 
